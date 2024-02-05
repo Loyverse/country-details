@@ -1,4 +1,4 @@
-### Country Details
+# Country Details
 
 Loyverse take home test.
 
@@ -10,12 +10,12 @@ Your task is to build out the project to the designs inside the `/design` folder
 
 Your users should be able to:
 
--   See all countries from the API on the homepage
--   Search for a country using an `input` field
--   Filter countries by region
--   Sort countries by population: most -> less 
--   Click on a country to see more detailed information on a separate page
--   Click through to the border countries on the detail page
+- See all countries from the API on the homepage
+- Search for a country using an `input` field
+- Filter countries by region
+- Sort countries by population: most -> less
+- Click on a country to see more detailed information on a separate page
+- Click through to the border countries on the detail page
 
 ### Evaluation Criteria
 

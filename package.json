@@ -2,5 +2,12 @@
   "name": "country-details",
   "description": "Loyverse take home test.",
   "version": "0.1.0",
-  "private": true
+  "private": false,
+  "license": "MIT",
+  "author": "Joel Lefkowitz",
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "tslib": "^2.3.0",
+    "typescript": "^5.3.0"
+  }
 }
